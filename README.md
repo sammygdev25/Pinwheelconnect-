@@ -1,39 +1,56 @@
+# Pinwheelconnect
 
-# Pinwheelconnect 
+Pinwheelconnect is a free, open-access platform that unifies education, AI, and research into a single modular ecosystem. Built for students, researchers, and builders — accessible to everyone, everywhere.
 
-**Pinwheelconnect** is a unified ecosystem that bridges education,and advanced AI research into a single modular platform. It serves as the parent hub for multiple interlinked projects. 
+-----
 
----
+## What It Is
 
-## Core Focus
+Pinwheelconnect serves as the parent hub for a set of interlinked projects spanning courseware, AI systems, reasoning engines, and global knowledge contribution tools. Each project operates independently while sharing a common architecture — security layers, data pipelines, and scalable compute.
 
-- **Knowledge Hub** — hosts courseware (Artixnature), educational AI systems (Shikshya), reasoning engines (reasonnet.ai), and global contribution tools (ShikshyaSource).  
-- **AI Innovation Platform** — develops, fine-tunes, and integrates models, datasets, and pipelines into real-world applications.
-- **Modular Infrastructure** — each project can run independently while connecting through shared architecture (data pipelines, security layers, scalable compute).  
-
----
-
-## Vision
-
-Pinwheelconnect exists to democratize access to knowledge and AI tools while ensuring scalability, cultural inclusivity, and enterprise-grade reliability. It functions both as an engineering framework and as a research initiative, enabling future-ready applications across education,and general AI.
-
----
+-----
 
 ## Projects
 
-- **Artixnature** — multi-disciplinary course platform with interactive science, mathematics, and philosophy content.
-- **ShikshyaSource** — global crowdsourcing platform for educational and cultural data contributions, enabling communities to add, verify, and share knowledge that fuels Shikshyaai
-- **reasonnet.ai** — logical reasoning engine designed to complement large language models with structured inference.
+### Artixnature
 
----
+Multi-disciplinary course platform with interactive content across mathematics, physics, computer science, philosophy, and more. Powered by ShikshyaAI, an educational assistant built for deep subject-level tutoring.
 
-## Principles
+### ShikshyaSource
 
-- **Human-Centered AI** 
-- **Scalability and Modularity** — designed for research, startups, and enterprise deployments.  
-- **Security and Trust** — strict data pipelines, governance, and compliance layers.  
+A global crowdsourcing platform for educational and cultural data. Communities contribute, verify, and share knowledge that trains and improves ShikshyaAI over time.
 
-**© 2025 Artixnaturelab
-All rights reserved. Unauthorized duplication is prohibited.
+### ReasonNet
 
----
+A logical reasoning engine designed to complement large language models with structured inference — bridging the gap between pattern recognition and formal reasoning.
+
+-----
+
+## Core Principles
+
+**Open Access** — Free for all users, globally. No paywalls, no gatekeeping.
+
+**Human-Centered AI** — Every system is designed around the learner, not the model.
+
+**Modularity** — Each project can be deployed independently or as part of the full ecosystem.
+
+**Security and Trust** — Strict input sanitization, output filtering, rate limiting, and governance layers across all AI surfaces.
+
+**Cultural Inclusivity** — Built with a global audience in mind, including underrepresented languages and communities.
+
+
+-----
+
+## Vision
+
+Pinwheelconnect exists to democratize access to knowledge and AI tools — ensuring scalability, cultural inclusivity, and enterprise-grade reliability. It functions as both an engineering framework and a living research initiative, enabling future-ready applications across education and general AI.
+
+-----
+
+## Status
+
+Platform is live at [pinwheelconnect.org](https://www.pinwheelconnect.org). Active development continues across course content, AI systems, and research tooling.
+
+-----
+
+© 2026 Artixnaturelab. All rights reserved. Unauthorized duplication is prohibited.
