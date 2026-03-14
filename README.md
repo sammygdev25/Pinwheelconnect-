@@ -1,12 +1,12 @@
 # Pinwheelconnect
 
-Pinwheelconnect is a free, open-access platform that unifies education, AI, and research into a single modular ecosystem. Built for students, researchers, and builders — accessible to everyone, everywhere.
+Pinwheelconnect is a free, open-access platform that unifies education, AI, and research into a single modular ecosystem. Built for students, researchers, and builders,accessible to everyone, everywhere.
 
 -----
 
 ## What It Is
 
-Pinwheelconnect serves as the parent hub for a set of interlinked projects spanning courseware, AI systems, reasoning engines, and global knowledge contribution tools. Each project operates independently while sharing a common architecture — security layers, data pipelines, and scalable compute.
+Pinwheelconnect serves as the parent hub for a set of interlinked projects spanning courseware, AI systems, reasoning engines, and global knowledge contribution tools. Each project operates independently while sharing a common architecture,security layers, data pipelines, and scalable compute.
 
 -----
 
@@ -22,7 +22,7 @@ A global crowdsourcing platform for educational and cultural data. Communities c
 
 ### ReasonNet
 
-A logical reasoning engine designed to complement large language models with structured inference — bridging the gap between pattern recognition and formal reasoning.
+A logical reasoning engine designed to complement large language models with structured inference, bridging the gap between pattern recognition and formal reasoning.
 
 -----
 
@@ -43,7 +43,7 @@ A logical reasoning engine designed to complement large language models with str
 
 ## Vision
 
-Pinwheelconnect exists to democratize access to knowledge and AI tools — ensuring scalability, cultural inclusivity, and enterprise-grade reliability. It functions as both an engineering framework and a living research initiative, enabling future-ready applications across education and general AI.
+Pinwheelconnect exists to democratize access to knowledge and AI tools, ensuring scalability, cultural inclusivity, and enterprise-grade reliability. It functions as both an engineering framework and a living research initiative, enabling future-ready applications across education and general AI.
 
 -----
 
